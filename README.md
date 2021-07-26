@@ -6,14 +6,14 @@
 
 ## ✉️ Find me on:
 
-<p align="center">
+<p align="left">
  <a href="https://al.linkedin.com/in/albina-boshku-143740213" target="_blank" rel="noopener noreferrer"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
 
 ## Languages :
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  height="40" style="vertical-align:top; margin:4px">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="40" style="vertical-align:top; margin:4px">
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="40" style="vertical-align:top; margin:4px">
@@ -25,8 +25,10 @@
   </p>
   
 <br />
-## Other tools:
-<p align="center">
+
+## Other tools :
+
+<p align="left">
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"  height="40" style="vertical-align:top; margin:4px">
 <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" height="40" style="vertical-align:top; margin:4px">
 <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" height="40" style="vertical-align:top; margin:4px">
