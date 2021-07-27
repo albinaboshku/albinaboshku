@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ,i'm Albina 👋
 
 - 🔭 I’m currently working on some exciting projects
 - 🌱 I’m currently learning Angular.
