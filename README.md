@@ -1,8 +1,6 @@
 ### Hi there ,i'm Albina 👋
 
 - 🔭 I’m currently working on some exciting projects
-- 🌱 I’m currently learning Angular.
-- ⚡ Fun fact: I love Gogh's paintings :milky_way: and Metallica :guitar:
 
 ## ✉️ Find me on:
 
