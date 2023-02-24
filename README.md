@@ -25,3 +25,4 @@ Hi 👋,i'm Albina an enthusiastic full stack developer.I love to network and jo
 </p>
 
 <img src="https://raw.githubusercontent.com/albinaboshku/albinaboshku/output/github-contribution-grid-snake.svg" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albinaboshku&theme=midnight-purple)
