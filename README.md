@@ -25,4 +25,12 @@ Hi 👋,i'm Albina an enthusiastic full stack developer.I love to network and jo
 </p>
 
 <img src="https://raw.githubusercontent.com/albinaboshku/albinaboshku/output/github-contribution-grid-snake.svg" />
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albinaboshku&theme=midnight-purple)
+
+## 🔥 Github Stats
+
+<img align="right" width="38%" src="https://github.com/albinaboshku/albinaboshku/blob/main/images/Satoru%20Gojo%20Hollow%20Purple%20-%20Imgur.gif"/>
+
+
+<a href="https://github.com/albinaboshku"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=albinaboshku&theme=midnight-purple&title_color=7134F0"></a>
+  <a href="https://github.com/albinaboshku"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=albinaboshku&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D&ring=435CDE&fire=622BED&sideNums=622BED"></a>
+
