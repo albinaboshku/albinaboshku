@@ -1,6 +1,22 @@
-### Hi there👋
 
-- 🔭 I’m currently working on some exciting projects
+
+<p>
+  
+Hi 👋,i'm Albina an enthusiastic full stack developer.I love to network and join creative and ambitious teams.I'm into anime,drawing,playing MLBB and listening to old rock music✨
+
+<div>
+<details>
+  <summary>More about me</summary>
+
+- 🔭 I’m currently on a journey to build **great** things
+
+- 🌱 I’m currently learning **everything** 🤓
+
+- 🤝 I’m looking for help with **finding projects to contribute to!**
+
+</details>
+  
+</p>
 
 ## ✉️ Find me on:
 
