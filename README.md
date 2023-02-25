@@ -36,21 +36,21 @@ Hi 👋,i'm Albina an enthusiastic full stack developer.I love to network and jo
   
   ## Programming skills
 <p "
-<img src="https://img.shields.io/badge/-JavaScript-blueviolet?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" height="45" width="120">
-<img src="https://img.shields.io/badge/-PHP-blueviolet?style=flat-square&logo=php&logoColor=white" alt="PHP" height="45" width="120">
-<img src="https://img.shields.io/badge/-Laravel-blueviolet?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" height="45" width="120">
-<img src="https://img.shields.io/badge/-HTML-blueviolet?style=flat-square&logo=html5&logoColor=white" alt="HTML" height="45" width="120">
-<img src="https://img.shields.io/badge/-CSS-blueviolet?style=flat-square&logo=css3&logoColor=white" alt="CSS" height="45" width="120">
-<img src="https://img.shields.io/badge/-VueJS-blueviolet?style=flat-square&logo=vue.js&logoColor=white" alt="VueJS" height="45" width="120">
-<img src="https://img.shields.io/badge/-ReactJS-blueviolet?style=flat-square&logo=react&logoColor=white" alt="ReactJS" height="45" width="120">
-<img src="https://img.shields.io/badge/-Redux-blueviolet?style=flat-square&logo=redux&logoColor=white" alt="Redux" height="45" width="120">
-<img src="https://img.shields.io/badge/-Vuex-blueviolet?style=flat-square&logo=vuex&logoColor=white" alt="Vuex" height="45" width="120">
-<img src="https://img.shields.io/badge/-Bootstrap-blueviolet?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" height="45" width="120">
-<img src="https://img.shields.io/badge/-MySQL-blueviolet?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="45" width="120">
-<img src="https://img.shields.io/badge/-Insomnia-blueviolet?style=flat-square&logo=insomnia&logoColor=white" alt="Insomnia" height="45" width="120">
-<img src="https://img.shields.io/badge/-Java-blueviolet?style=flat-square&logo=java&logoColor=white" alt="Java" height="45" width="120">
-<img src="https://img.shields.io/badge/-Cordova-blueviolet?style=flat-square&logo=apachecordova&logoColor=white" alt="Cordova" height="45" width="120">
-<img src="https://img.shields.io/badge/-Quasar-blueviolet?style=flat-square&logo=quasar&logoColor=white" alt="Quasar" height="45" width="120">
+<img src="https://img.shields.io/badge/-JavaScript-blueviolet?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" height="40" width="120">
+<img src="https://img.shields.io/badge/-PHP-blueviolet?style=flat-square&logo=php&logoColor=white" alt="PHP" height="40" width="120">
+<img src="https://img.shields.io/badge/-Laravel-blueviolet?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" height="40" width="120">
+<img src="https://img.shields.io/badge/-HTML-blueviolet?style=flat-square&logo=html5&logoColor=white" alt="HTML" height="40" width="120">
+<img src="https://img.shields.io/badge/-CSS-blueviolet?style=flat-square&logo=css3&logoColor=white" alt="CSS" height="40" width="120">
+<img src="https://img.shields.io/badge/-VueJS-blueviolet?style=flat-square&logo=vue.js&logoColor=white" alt="VueJS" height="40" width="100">
+<img src="https://img.shields.io/badge/-ReactJS-blueviolet?style=flat-square&logo=react&logoColor=white" alt="ReactJS" height="40" width="120">
+<img src="https://img.shields.io/badge/-Redux-blueviolet?style=flat-square&logo=redux&logoColor=white" alt="Redux" height="40" width="120">
+<img src="https://img.shields.io/badge/-Vuex-blueviolet?style=flat-square&logo=vuex&logoColor=white" alt="Vuex" height="40" width="120">
+<img src="https://img.shields.io/badge/-Bootstrap-blueviolet?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" height="40" width="120">
+<img src="https://img.shields.io/badge/-MySQL-blueviolet?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="40" width="120">
+<img src="https://img.shields.io/badge/-Insomnia-blueviolet?style=flat-square&logo=insomnia&logoColor=white" alt="Insomnia" height="40" width="120">
+<img src="https://img.shields.io/badge/-Java-blueviolet?style=flat-square&logo=java&logoColor=white" alt="Java" height="40" width="100">
+<img src="https://img.shields.io/badge/-Cordova-blueviolet?style=flat-square&logo=apachecordova&logoColor=white" alt="Cordova" height="40" width="120">
+<img src="https://img.shields.io/badge/-Quasar-blueviolet?style=flat-square&logo=quasar&logoColor=white" alt="Quasar" height="40" width="120">
 
 </p>
 
