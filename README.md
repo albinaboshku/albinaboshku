@@ -28,10 +28,11 @@ Hi 👋,i'm Albina an enthusiastic full stack developer.I love to network and jo
 
 ## 🔥 Github Stats
 
-<img align="right" width="48%" src="https://github.com/albinaboshku/albinaboshku/blob/main/images/Satoru%20Gojo%20Hollow%20Purple%20-%20Imgur.gif"/>
+<img align="right" src="https://github.com/albinaboshku/albinaboshku/blob/main/images/Satoru%20Gojo%20Hollow%20Purple%20-%20Imgur.gif" width="48%" />
 
-<a href="https://github.com/albinaboshku"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=albinaboshku&theme=midnight-purple&title_color=7134F0"></a>
-  <a href="https://github.com/albinaboshku"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=albinaboshku&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D&ring=435CDE&fire=622BED&sideNums=622BED"></a>
+
+<a align="left" href="https://github.com/albinaboshku"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=albinaboshku&theme=midnight-purple&title_color=7134F0"></a>
+  <a align="left" href="https://github.com/albinaboshku"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=albinaboshku&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D&ring=435CDE&fire=622BED&sideNums=622BED"></a>
   
   ## Programming skills
 <p "
