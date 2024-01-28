@@ -22,8 +22,6 @@ Unlimited Void...
  <a href="https://al.linkedin.com/in/albina-boshku-143740213" target="_blank" rel="noopener noreferrer"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/albinaboshku/albinaboshku/output/github-contribution-grid-snake.svg" />
-
 ## 🔥 Github Stats
 
 <img align="right" src="https://github.com/albinaboshku/albinaboshku/blob/main/images/Satoru%20Gojo%20Hollow%20Purple%20-%20Imgur.gif" width="48%" />
