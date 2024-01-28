@@ -33,12 +33,12 @@ Unlimited Void...
   ## Programming skills
 <p "
 <img src="https://img.shields.io/badge/-JavaScript-blueviolet?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" height="40" width="120">
-<img src="https://img.shields.io/badge/-PHP-blueviolet?style=flat-square&logo=php&logoColor=white" alt="PHP" height="40" width="120">
 <img src="https://img.shields.io/badge/-Laravel-blueviolet?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" height="40" width="120">
-<img src="https://img.shields.io/badge/-HTML-blueviolet?style=flat-square&logo=html5&logoColor=white" alt="HTML" height="40" width="120">
-<img src="https://img.shields.io/badge/-CSS-blueviolet?style=flat-square&logo=css3&logoColor=white" alt="CSS" height="40" width="120">
 <img src="https://img.shields.io/badge/-VueJS-blueviolet?style=flat-square&logo=vue.js&logoColor=white" alt="VueJS" height="40" width="100">
 <img src="https://img.shields.io/badge/-ReactJS-blueviolet?style=flat-square&logo=react&logoColor=white" alt="ReactJS" height="40" width="120">
+<img src="https://img.shields.io/badge/-PHP-blueviolet?style=flat-square&logo=php&logoColor=white" alt="PHP" height="40" width="120">
+<img src="https://img.shields.io/badge/-HTML-blueviolet?style=flat-square&logo=html5&logoColor=white" alt="HTML" height="40" width="120">
+<img src="https://img.shields.io/badge/-CSS-blueviolet?style=flat-square&logo=css3&logoColor=white" alt="CSS" height="40" width="120">
 <img src="https://img.shields.io/badge/-Redux-blueviolet?style=flat-square&logo=redux&logoColor=white" alt="Redux" height="40" width="120">
 <img src="https://img.shields.io/badge/-Vuex-blueviolet?style=flat-square&logo=vuex&logoColor=white" alt="Vuex" height="40" width="120">
 <img src="https://img.shields.io/badge/-Bootstrap-blueviolet?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" height="40" width="120">
